@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Curriculum Vitae di Gaetano Bruno'
+project = 'Gaetano Bruno's resume'
 copyright = 'change-me'
 
 # The name of the Pygments (syntax highlighting) style to use.
